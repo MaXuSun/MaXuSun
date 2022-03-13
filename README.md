@@ -2,6 +2,8 @@
 [![WeChat](https://img.shields.io/badge/WeChat-mx_ninthSun-brightgreen.svg?style=flat-square&logo=Juejin)](wechat_qr_code.jpg?raw=true)
 
 <div align="center">
-| <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxusun&show_icons=true&theme=dark" alt="Stacklens's github stats" /></a> | <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxusun&layout=compact&hide_border=true&theme=dark"  height=195px/></a>|
-| --|--|
+  
+| <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stacklens's github stats" /></a> | <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklens&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
 </div>
