@@ -2,5 +2,5 @@
 [![WeChat](https://img.shields.io/badge/WeChat-mx_ninthSun-brightgreen.svg?style=flat-square&logo=Juejin)](wechat_qr_code.jpg?raw=true)
 
 ![MaXu's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxusun&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxusun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxusun&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://stats.justsong.cn/api/leetcode/?username=maxusun&theme=dark&cn=true)
