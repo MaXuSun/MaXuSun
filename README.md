@@ -3,7 +3,6 @@
 
 <div align="center">
   
-| <a href="https://github.com/maxusun"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxusun&show_icons=true&include_all_commits=true&hide_border=true" alt="MaXu's github stats" /></a> | <a href="https://github.com/maxusun"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxusun&layout=compact&hide_border=true" /></a> |<a href="https://github.com/maxusun"><img align="center" src="https://stats.justsong.cn/api/leetcode/?username=maxusun&cn=true&hide_border=true" /></a>|
-| ------------- | ------------- |------------- |
-  
+| <a href="https://github.com/maxusun"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxusun&show_icons=true&include_all_commits=true&hide_border=true" alt="MaXu's github stats" /></a> | <a href="https://github.com/maxusun"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxusun&layout=compact&hide_border=true" /></a>|
+| ------------- | ------------- |
 </div>
