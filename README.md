@@ -3,7 +3,7 @@
 
 <div align="center">
   
-| <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stacklens's github stats" /></a> | <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklens&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/maxusun"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxusun&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="MaXu's github stats" /></a> | <a href="https://github.com/maxusun"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxusun&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
   
 </div>
