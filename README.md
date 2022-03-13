@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 ![info](https://github-readme-stats.vercel.app/api?username=maxusun&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
